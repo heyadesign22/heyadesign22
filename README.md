@@ -1,6 +1,4 @@
 <p align="center"><img src="https://media.giphy.com/media/rwIefmbZUFr2inBRDj/giphy.gif" width="200"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=anhnguyen148&style=flat-square&color=red" alt=""></p>
-<!-- <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 
 ### :woman_technologist: &nbsp;About Me:
 A Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> U.S based - Vietnamese origin.
