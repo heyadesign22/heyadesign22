@@ -2,11 +2,6 @@
 
 ### :woman_technologist: &nbsp;About Me:
 A Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30">
-- 🌱 I’m currently learning DSA and solving problems on Leetcode in my spare time.
-- 🎨 I not only enjoy coding but also have a deep passion for art, particularly digital design. I apply my design skills to almost every aspect of my programming projects
-- 📫 How to reach me: heyadesign22@gmail.com
-
----
 
 ### 🛠 &nbsp;Languages and Tools:
 <p>
